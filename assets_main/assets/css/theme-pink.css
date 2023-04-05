@@ -1,0 +1,193 @@
+@charset "utf-8";
+
+/* CSS Document *//*
+Option : 1;
+Theme : bBlue;
+Author: shameer;
+Created: 10 May 2019;
+Last updated: 10 May 2019;
+Version: 0.1;
+*/
+html,
+body{
+    background-image:url(../images/page-bg-pink.png); 
+    background-size:cover;
+    background-color:#00375c;
+    height:100%;
+}
+
+/* ---------------- */
+/* Question section*/
+.question-area {
+    background:transparent;
+}
+.question-div {
+    border:none;
+    background: #fbb881;
+    border-radius: 2px; -moz-border-radius: 2px;
+    -webkit-border-radius: 2px;
+}
+
+
+.question {
+    background: #fbb881;
+
+}
+
+.qt_name_div{
+  background: #fbb881;  
+}
+.question h1 {
+    color: #000; font-weight: 400;
+}.question p {
+    color:#000;
+}
+/*question table */
+.question-area .table-box {
+    background: #ffffff20;
+    border: 2px solid #00000020;
+    border-radius: 3px; -moz-border-radius: 3px; 
+    -webkit-border-radius: 3px; 
+}
+.question-area .table-header { 
+    height:30px; font-weight:500;
+    background: #d5ae91; color:#000; 
+}
+
+.question-area tr.table-header td:last-child {
+    border-right:2px solid #d5ae91 !important;
+}
+.table-box table { border-radius: 0px; -webkit-border-radius: 0px; -moz-border-radius: 0px;  }
+.table-box table tr td { border: none; }
+
+.question-area .table-box table tr td, .question-area tr.table-header td {
+    border-right: 2px solid #00000020; 
+}
+.question-area .table-box table tr td:last-child, 
+.question-area tr.table-header td:last-child {
+    border-right:none;
+}
+
+.question-area .table-box table tr td:hover {
+    background: rgba(0,0,0,0.3);
+}
+.question-area .table-box .cellselect {  
+    background: rgba(0,0,0,0.3);
+}
+
+.question-area .table-box table li {
+    font-size: 1.1em;  color:#000;
+}
+
+
+/* question after the table */
+.question-area ul {
+    float: left; margin:0 0 20px; }
+.question-area ul li {
+    font-size: 1.2em; }
+.question-area ul li a {
+    color:#000;
+    background: none; border: none; }
+
+
+
+.row_data tbody tr {
+    background: rgba(0,0,0,.20);
+}
+.row_data tbody tr:nth-child(odd){
+    /* background: rgba(256,256,256,.20); */    
+    background: rgba(0,0,0,.20);
+}
+
+.transations {
+    
+    background: #fbb881;
+}
+
+
+/* -------------- */
+/* Answer Section */
+.answer-area {
+    background:transparent;
+}
+/* transaction pool*/
+.transaction-poolQ {
+    background: #6e6e6e; border: none;
+    line-height: 1.2em;
+    color:#fff; font-size:1.3em; 
+}
+.help-text {
+    padding:10px;
+    height: auto;
+    background: #dbdbdb; color:#fff;
+    border: none;
+}
+.help-text p { 
+    font-size:1.1em; line-height: 18px;
+    color:#000; margin:0; padding:0; 
+}
+.transaction-pool {
+    background: #39393925;
+    border: none;
+}
+
+.transaction-pool ul li {
+    background:#ffffff00;
+    border: none; color:#fff; }
+
+.answer-area .table-header { 
+    font-weight:500; background: #b0b0b0; }
+.answer-area tr.table-header td {
+    color:#000; }
+.answer-area .table-box table td {
+    background: #fcc69a; }
+
+     .answer-area .table-box table td .sub_table {
+    background: #fcc69a; }
+        .answer-area .table-box table td .sub_table_fixed {
+    background: #fcc69a; }
+.answer-area .table-box table td:hover {
+    /*background: #fbac73; */}
+
+
+#table1 { float:left; width:100%; }
+.answer-table-header {
+     color: #fff; 
+    /*background:#00000020;*/ }
+.answer-table-box {
+    float:left; width: 100%; overflow: hidden;
+    /*border: 2px solid #ffffff90;*/
+    border-radius: 3px; -webkit-border-radius: 3px; 
+    -moz-border-radius: 3px; }
+
+.answer-table-box .result_dv table li {
+    color:#000; }
+
+.answer-area .table-box table tr.table-header td { 
+    background: #b4b4b4; }
+.answer-area .table-box table { 
+    border-radius: 0px; -moz-border-radius: 0px;
+    -webkit-border-radius: 0px; }
+
+.answer-area .table-box table tr td, .answer-area tr.table-header td {
+    border-right: 2px solid rgba(0,0,0,0.3); 
+}
+.answer-area .table-box table tr td:last-child, 
+.answer-area tr.table-header td:last-child {
+    /*border-right:none;*/
+}
+.answer-area .table-box table tr td:first-child, 
+.answer-area tr.table-header td:first-child {
+    border-left: 2px solid rgba(0,0,0,0.5);
+}
+
+
+
+/*hover classes */
+.answer-area .table-box table tr td:hover, 
+.answer-area tr.table-header td:hover {
+    /*opacity: 0.8;
+    filter: alpha(opacity=80);*/
+}
+
+

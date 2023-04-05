@@ -1,0 +1,37 @@
+ $value = !empty($input['pin']) ?  $input['pin'] : 0;
+                $pin = $this->post('pin') ? $this->post('pin') : $value;
+
+
+$region = $this->get_pincode_region($pin);
+
+
+foreach ($result1 as $v => $key1) 
+			{
+
+
+				$regions=explode(",",$key1['reg_ids']);
+				
+
+				if(!in_array($pin_region, $regions))
+
+				{
+
+					
+					
+					$result1[$v]=array();
+				}else{
+
+				}
+
+			}
+
+
+GROUP_CONCAT(region_id) as reg_ids
+
+$this->db->join('vendor_regions','vendor_regions.vendor_id=vendor_stock_products.vendor_id','left');
+
+
+if($region != "")
+		{
+			$this->db->join('vendor_regions','vendor_regions.vendor_id=vendors.vendor_id','left');
+		}

@@ -1,0 +1,79 @@
+body{
+    background:#509167; 
+	border-color:rgba(256,256,256,0.3);
+}
+.question-div{
+    
+    border: 1px solid #ffffff50;
+    background: #00000030;
+}
+.question-area {
+    background: transparent;
+    
+}
+.question h1,.question-area h4,.answer-area h4{
+    color: #fff;
+}
+.question-area ul li a {
+    
+    color: #fff;
+    
+    background: transparent;
+    border: none;
+}
+.question h1 {
+}
+#answer-area{
+    background: transparent;
+}
+.transaction-poolQ {
+    background-color: #118934;
+    border: 1px solid rgba(256,256,256,0.8);
+    color: #fff;
+}
+.transaction-pool {
+    border: 1px solid rgba(256,256,256,0.8);
+    border-top: none;
+}
+.transaction-pool ul li {
+   
+    
+    color: #000;
+    background: #c8cdd4;
+    border: 1px solid #c8cdd4;
+    
+}
+.table-header {
+    color: #fff;
+    
+    background: #31a353;
+}
+.table-box table li {
+   
+    color: #fff;
+}
+tbody{
+    color: #fff;
+}
+.op_controll {
+    background-color: #fff;
+}
+.operation {
+    color: red;
+}
+.theme{
+    background-color: #bb958d80;
+}
+.result_dv{
+    background: rgba(0,0,0,.2);
+}
+.table-box table tr td,.table-box table tr:first-child td{
+    border: 1px solid #efefef69
+}
+.row_data tbody tr{
+    background: rgba(0,0,0,.20);
+}
+.row_data tbody tr:nth-child(odd){
+/*    background: rgba(256,256,256,.20);
+*/    background: rgba(0,0,0,.20);
+}

@@ -1,0 +1,26 @@
+
+scroll bar updations
+
+in style.css
+
+html {
+    overflow: scroll;
+    overflow-y: hidden;
+}
+
+
+in index_new
+::-webkit-scrollbar {
+display: none;
+}
+
+for questions
+<div class="question-div" style="float:left;width:100%;margin:19px 0 19px 0;
+          overflow-y: auto;
+    max-height: 89vh;
+    ">
+
+
+for answer area
+ <div class="col-md-6 col-sm-6 col-12 " id="answer-area" style="    overflow-y: auto;
+    max-height: 89vh;">

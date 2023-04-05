@@ -1,0 +1,82 @@
+body{
+    background-image: url('../images/pattern2.jpg');
+    background-size: cover;
+	border-color:rgba(256,256,256,0.3);
+}
+.question-div{
+    border: 1px solid #ffffff50;
+    background: #00000050;
+}
+.question-area {
+    background: transparent;
+}
+.question-area ul li a {
+    color: #fff;
+    background: transparent;
+    border: none;
+}
+.question h1 {
+    color: #fff;
+}
+#answer-area{
+    background: transparent;
+}
+.transaction-poolQ {
+    background-color: #FFFF00;
+    border: 1px solid rgba(256,256,256,0.8);
+    color: #000;
+	font-size:1.3em;
+}
+.transaction-pool {
+    border: 1px solid rgba(256,256,256,0.8);
+}
+.transaction-pool ul li {
+    color: #fff;
+    background: rgba(0,0,0,0);
+    border: 0px solid #02547d;
+	font-size:1.2em;
+	font-weight:normal;
+}
+.table-header {
+    color: #000;
+    background: #FFFF00;
+}
+.table-box table li {
+    color: #fff;
+}
+.op_controll {
+    background-color: #fff;
+}
+.operation {
+    color: red;
+}
+.table-box table tr td {
+    border: 1px solid #ffffff50;
+}
+.table-box table tr:first-child td {
+    border-color:#ffffff80;
+}
+.row_data tbody tr{
+    background: #DDE4F1;
+	color: #000;
+}
+.row_data tbody tr li{
+    	color: #000;
+}
+
+
+
+
+.row_data tbody tr:nth-child(odd){
+    background: #88aff7;
+color: #fff;
+
+}
+
+.row_data tbody tr:nth-child(odd) li{
+    
+color: #fff;
+
+}
+
+

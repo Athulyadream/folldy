@@ -1,0 +1,28 @@
+body{
+    background-image: url('../images/pattern2.jpg');
+    background-size: cover; }
+.question-area {
+    background: transparent; }
+.question-area ul li a {
+    
+}
+#answer-area{
+    background: transparent; }
+.transaction-poolQ {
+    background-color: #60313f;
+    /* border: 1px solid #2384a8; */
+    color: #fff; }
+.transaction-pool {
+    border: 1px solid #fff; }
+.transaction-pool ul li { }
+.table-header {
+    color: #fff;
+    background: #60313f; }
+.table-box table li {
+    color: #fff; }
+.op_controll {
+    background-color: #fff; }
+.operation {
+    color: red; }
+.theme{
+    background-color: #868686de; }

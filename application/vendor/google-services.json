@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "33339932193",
+    "firebase_url": "https://vendorskmstores.firebaseio.com",
+    "project_id": "vendorskmstores",
+    "storage_bucket": "vendorskmstores.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:33339932193:android:df9cbb48452e90dc",
+        "android_client_info": {
+          "package_name": "com.example.android.vendorskmstores"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "33339932193-e2behgvpk7tsupo255b7asrhsjooa993.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.android.vendorskmstores",
+            "certificate_hash": "e1453b7a38715f8d9fa985d11c7b9c4cb2707c4d"
+          }
+        },
+        {
+          "client_id": "33339932193-2m4efvsrhs2fio6ufcsnhgk4se0lo9a9.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCXMnjal61TnzqoBYTu1UNlNhYCFxOqEIA"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "33339932193-2m4efvsrhs2fio6ufcsnhgk4se0lo9a9.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

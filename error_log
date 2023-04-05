@@ -1,0 +1,12 @@
+[13-May-2019 12:56:06 Asia/Kolkata] PHP Parse error:  syntax error, unexpected 'else' (T_ELSE) in /home/primeerp/works2.primalcodes.com/record_screen/application/views/frontend/index_new.php on line 430
+[14-May-2019 11:44:03 Asia/Kolkata] PHP Parse error:  syntax error, unexpected end of file in /home/primeerp/works2.primalcodes.com/record_screen/application/views/frontend/index_new.php on line 563
+[14-May-2019 11:44:34 Asia/Kolkata] PHP Parse error:  syntax error, unexpected end of file in /home/primeerp/works2.primalcodes.com/record_screen/application/views/frontend/index_new.php on line 563
+[14-May-2019 11:44:38 Asia/Kolkata] PHP Parse error:  syntax error, unexpected end of file in /home/primeerp/works2.primalcodes.com/record_screen/application/views/frontend/index_new.php on line 563
+[14-May-2019 11:47:01 Asia/Kolkata] PHP Parse error:  syntax error, unexpected end of file in /home/primeerp/works2.primalcodes.com/record_screen/application/views/frontend/index_new.php on line 560
+[14-May-2019 11:47:12 Asia/Kolkata] PHP Parse error:  syntax error, unexpected end of file in /home/primeerp/works2.primalcodes.com/record_screen/application/views/frontend/index_new.php on line 560
+[14-May-2019 12:15:09 Asia/Kolkata] PHP Fatal error:  Call to undefined function prin_r() in /home/primeerp/works2.primalcodes.com/record_screen/application/views/frontend/index_new.php on line 382
+[16-May-2019 11:55:49 Asia/Kolkata] PHP Parse error:  syntax error, unexpected ''=tables.table_id'' (T_CONSTANT_ENCAPSED_STRING) in /home/primeerp/works2.primalcodes.com/record_screen/application/models/AdminModel.php on line 121
+[25-May-2019 11:27:24 Asia/Kolkata] PHP Parse error:  syntax error, unexpected '}' in /home/primeerp/works2.primalcodes.com/record_screen/application/models/AdminModel.php on line 264
+[25-May-2019 11:27:37 Asia/Kolkata] PHP Fatal error:  Cannot redeclare AdminModel::list_questions() in /home/primeerp/works2.primalcodes.com/record_screen/application/models/AdminModel.php on line 270
+[25-May-2019 11:35:23 Asia/Kolkata] PHP Fatal error:  Call to undefined method AdminModel::list_questions_table_ids() in /home/primeerp/works2.primalcodes.com/record_screen/application/controllers/AdminController.php on line 525
+[25-May-2019 11:36:42 Asia/Kolkata] PHP Fatal error:  Call to undefined function pint_r() in /home/primeerp/works2.primalcodes.com/record_screen/application/controllers/AdminController.php on line 805

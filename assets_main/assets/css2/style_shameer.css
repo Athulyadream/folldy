@@ -1,0 +1,67 @@
+
+
+
+/* -------------------------- */
+/* theme Green
+
+question bg { 
+	background:rgba(0,0,0,0.30); 
+	border-color:rgba(256,256,256,0.3); }
+transaction pool heading color { 
+	#118934; }
+transaction pool table border{
+	border-color:rgba(256,256,256,0.8); }
+
+answer table heading {
+	background:#31a353; color:#fff; }
+
+answer table raw1 { 
+	background: rgba(256,256,256,.50); }
+answer table raw2 { 
+	background: rgba(45,42,71,.50); }
+
+
+/* -------------------------- */
+/* theme BLUE
+
+question bg { 
+	background:rgba(0,0,0,0.30); 
+	border-color:rgba(256,256,256,0.3); }
+transaction pool heading color { 
+	background: #2c8880; }
+transaction pool table border{
+	border-color:rgba(256,256,256,0.8); }
+
+answer table heading {
+	background:#107d71; color:#fff; }
+
+answer table raw1 { 
+	background: rgba(256,256,256,.50); }
+answer table raw2 { 
+	background: rgba(45,42,71,.50); }
+
+
+
+/* ------------------------- */
+/* theme PINK
+
+question bg { 
+	background:rgba(146,39,143,0.10); 
+	border-color:rgba(256,256,256,0.10); }
+transaction pool heading color { 
+	background: #2c1b40; }
+transaction pool table border{
+	border-color:rgba(256,256,256,0.8); }
+
+answer table heading {
+	background:#2c1b40; color:#fff; }
+
+answer table raw1 { 
+	background: rgba(256,256,256,.50); }
+answer table raw2 { 
+	background: rgba(45,42,71,.50); }
+
+
+
+
+
